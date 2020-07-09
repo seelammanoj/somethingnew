@@ -4,11 +4,3 @@ someone added some changes into the file
 if(newchange)
 	printf("new change");
 return;
-=======
-int main()
-{
-	printf("making new changes");
-
-return;
-}
->>>>>>> Stashed changes
