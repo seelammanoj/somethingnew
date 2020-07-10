@@ -4,3 +4,4 @@ someone added some changes into the file
 if(newchange)
 	printf("new change");
 return;
+what should i do before pull the source to backup my changes in the workspace
