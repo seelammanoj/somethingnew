@@ -1,6 +1,5 @@
 //how to backup the changes when something new is committed to the same branch
 someone added some changes into the file
-<<<<<<< Updated upstream
 if(newchange)
 	printf("new change");
 return;
